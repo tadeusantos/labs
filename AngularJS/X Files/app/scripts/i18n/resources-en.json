@@ -1,0 +1,11 @@
+{
+    "title": "x Files",
+
+    "menu": {
+        "label": {
+            "classes": "Classes",
+            "equipments": "Equipments",
+            "maintenance": "Maintenance"
+        }
+    }
+}
